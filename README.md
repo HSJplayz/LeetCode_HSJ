@@ -43,4 +43,12 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2029-stone-game-ix) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
