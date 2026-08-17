@@ -50,6 +50,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0024-swap-nodes-in-pairs) |
 ## Hash Table
 |  |
@@ -58,9 +59,14 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
