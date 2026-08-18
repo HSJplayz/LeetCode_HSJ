@@ -6,6 +6,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0035-search-insert-position) |
 | [2029-stone-game-ix](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2029-stone-game-ix) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
 |  |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
