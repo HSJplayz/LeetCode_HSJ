@@ -92,4 +92,20 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
