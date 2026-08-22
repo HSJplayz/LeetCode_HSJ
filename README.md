@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0053-maximum-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0010-regular-expression-matching) |
+| [0053-maximum-subarray](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0053-maximum-subarray) |
 ## Simulation
 |  |
 | ------- |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0094-binary-tree-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
