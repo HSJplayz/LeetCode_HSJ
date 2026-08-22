@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0053-maximum-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1386-cinema-seat-allocation) |
@@ -122,4 +123,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
