@@ -78,6 +78,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1927-sum-game](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1927-sum-game) |
 ## Backtracking
 |  |
@@ -131,4 +132,21 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
