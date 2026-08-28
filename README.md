@@ -99,6 +99,7 @@
 | [1927-sum-game](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0349-intersection-of-two-arrays) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String Matching
 |  |
 | ------- |
@@ -188,4 +190,5 @@
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
