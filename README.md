@@ -10,6 +10,7 @@
 | [0283-move-zeroes](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0349-intersection-of-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1386-cinema-seat-allocation) |
+| [1480-running-sum-of-1d-array](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1480-running-sum-of-1d-array) |
 | [1872-stone-game-viii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -177,6 +178,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1480-running-sum-of-1d-array) |
 | [1872-stone-game-viii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1872-stone-game-viii) |
 ## Sliding Window
 |  |
