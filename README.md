@@ -22,6 +22,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -35,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0067-add-binary) |
 | [1872-stone-game-viii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1927-sum-game) |
