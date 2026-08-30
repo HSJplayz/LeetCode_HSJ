@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0349-intersection-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Math
@@ -39,6 +40,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0069-sqrtx) |
 | [1872-stone-game-viii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2029-stone-game-ix) |
@@ -203,4 +205,8 @@
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
