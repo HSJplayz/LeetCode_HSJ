@@ -41,6 +41,7 @@
 | [0029-divide-two-integers](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0070-climbing-stairs) |
 | [1872-stone-game-viii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2029-stone-game-ix) |
@@ -117,6 +118,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0070-climbing-stairs) |
 | [1872-stone-game-viii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1872-stone-game-viii) |
 ## Simulation
 |  |
@@ -209,4 +211,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
