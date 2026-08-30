@@ -8,9 +8,8 @@ class Solution:
         if len(password)<8:
             return False
         for i in range(len(password)):
-            if i<len(password)-1:
-                if password[i]==password[i+1]:
-                    return False
+            if i<len(password)-1 and password[i]==password[i+1]:
+                return False
             ch=password[i]
             if ch.islower():
                 has_lower=True
