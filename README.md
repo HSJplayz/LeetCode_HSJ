@@ -7,6 +7,7 @@
 | [0027-remove-element](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0053-maximum-subarray) |
+| [0136-single-number](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0349-intersection-of-two-arrays) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
