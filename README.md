@@ -99,6 +99,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0349-intersection-of-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1386-cinema-seat-allocation) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2729-check-if-the-number-is-fascinating) |
@@ -112,6 +113,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0242-valid-anagram) |
 | [1927-sum-game](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1927-sum-game) |
 | [2299-strong-password-checker-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2299-strong-password-checker-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -205,6 +207,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0349-intersection-of-two-arrays) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Enumeration
