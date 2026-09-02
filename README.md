@@ -46,6 +46,7 @@
 | [0067-add-binary](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0258-add-digits) |
 | [1872-stone-game-viii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2029-stone-game-ix) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |
@@ -144,6 +146,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0258-add-digits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Tree
 |  |
