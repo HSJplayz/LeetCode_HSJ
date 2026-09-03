@@ -30,6 +30,7 @@
 | [0029-divide-two-integers](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -106,6 +107,7 @@
 | [0219-contains-duplicate-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1386-cinema-seat-allocation) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -119,6 +121,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0389-find-the-difference) |
 | [1927-sum-game](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1927-sum-game) |
 | [2299-strong-password-checker-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2299-strong-password-checker-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -216,6 +219,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0389-find-the-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Enumeration
 |  |
