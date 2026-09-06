@@ -124,6 +124,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0389-find-the-difference) |
 | [1927-sum-game](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1927-sum-game) |
@@ -141,6 +142,7 @@
 | [0010-regular-expression-matching](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0115-distinct-subsequences) |
 | [1872-stone-game-viii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1872-stone-game-viii) |
 ## Simulation
 |  |
