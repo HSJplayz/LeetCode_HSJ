@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0070-climbing-stairs) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0050-powx-n) |
 ## Hash Table
 |  |
 | ------- |
