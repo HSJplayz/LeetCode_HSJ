@@ -62,6 +62,7 @@
 | [1927-sum-game](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2469-convert-the-temperature) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
