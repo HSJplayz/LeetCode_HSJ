@@ -15,6 +15,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0349-intersection-of-two-arrays) |
 | [0835-image-overlap](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1480-running-sum-of-1d-array) |
 | [1872-stone-game-viii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2029-stone-game-ix) |
@@ -47,6 +48,7 @@
 | [0035-search-insert-position](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0349-intersection-of-two-arrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
@@ -125,6 +127,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3483-unique-3-digit-even-numbers) |
@@ -159,6 +162,7 @@
 | [0070-climbing-stairs](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1872-stone-game-viii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -245,6 +249,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0219-contains-duplicate-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sorting
 |  |
