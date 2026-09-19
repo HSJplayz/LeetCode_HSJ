@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0035-search-insert-position) |
@@ -123,6 +124,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0219-contains-duplicate-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0242-valid-anagram) |
