@@ -136,6 +136,7 @@
 | [0242-valid-anagram](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0389-find-the-difference) |
+| [1096-brace-expansion-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -155,6 +156,7 @@
 | [0242-valid-anagram](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0389-find-the-difference) |
 | [0940-distinct-subsequences-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1927-sum-game) |
 | [2299-strong-password-checker-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2299-strong-password-checker-ii) |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1096-brace-expansion-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1096-brace-expansion-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -212,6 +215,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0100-same-tree) |
+| [1096-brace-expansion-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -222,6 +226,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0094-binary-tree-inorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1096-brace-expansion-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -274,6 +279,7 @@
 | [0242-valid-anagram](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0389-find-the-difference) |
+| [1096-brace-expansion-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
