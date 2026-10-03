@@ -156,6 +156,7 @@
 | [0020-valid-parentheses](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0242-valid-anagram) |
@@ -186,6 +187,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0115-distinct-subsequences) |
@@ -239,6 +241,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0094-binary-tree-inorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -338,6 +341,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
