@@ -161,6 +161,7 @@
 | [0067-add-binary](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0678-valid-parenthesis-string) |
@@ -184,6 +185,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1096-brace-expansion-ii) |
 ## Dynamic Programming
 |  |
@@ -234,6 +236,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0100-same-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
