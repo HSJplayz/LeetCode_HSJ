@@ -25,6 +25,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -48,6 +49,7 @@
 | [0136-single-number](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1386-cinema-seat-allocation) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
@@ -97,6 +99,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
 |  |
@@ -150,6 +153,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3718-smallest-missing-multiple-of-k) |
