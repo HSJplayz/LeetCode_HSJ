@@ -17,6 +17,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0835-image-overlap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1480-running-sum-of-1d-array) |
@@ -68,6 +69,7 @@
 | [0035-search-insert-position](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0349-intersection-of-two-arrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -303,6 +305,7 @@
 | [0283-move-zeroes](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0349-intersection-of-two-arrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String Matching
@@ -345,6 +348,7 @@
 | [0389-find-the-difference](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
