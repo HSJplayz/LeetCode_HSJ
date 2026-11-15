@@ -21,6 +21,7 @@
 | [1386-cinema-seat-allocation](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2029-stone-game-ix) |
@@ -89,6 +90,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2029-stone-game-ix) |
@@ -234,6 +236,7 @@
 | [0678-valid-parenthesis-string](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -333,6 +336,7 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1872-stone-game-viii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3903-smallest-stable-index-i) |
