@@ -98,6 +98,7 @@
 | [2413-smallest-even-multiple](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2469-convert-the-temperature) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2769-find-the-maximum-achievable-number](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2769-find-the-maximum-achievable-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3524-find-x-value-of-array-i) |
