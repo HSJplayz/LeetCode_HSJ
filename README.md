@@ -90,6 +90,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1927-sum-game) |
