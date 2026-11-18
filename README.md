@@ -60,6 +60,7 @@
 | [0029-divide-two-integers](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -310,6 +311,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
