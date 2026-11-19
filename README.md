@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0349-intersection-of-two-arrays) |
@@ -136,6 +137,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
@@ -170,6 +172,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0349-intersection-of-two-arrays) |
@@ -311,6 +314,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
@@ -364,6 +368,7 @@
 | ------- |
 | [0015-3sum](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0389-find-the-difference) |
@@ -435,4 +440,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
