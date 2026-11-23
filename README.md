@@ -18,6 +18,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0835-image-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -93,6 +94,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1352-product-of-the-last-k-numbers](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -354,6 +356,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1872-stone-game-viii) |
@@ -450,4 +453,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/HSJplayz/LeetCode_HSJ/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
